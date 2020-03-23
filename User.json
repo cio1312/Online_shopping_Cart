@@ -1,0 +1,37 @@
+[
+  {
+    "id1": 1,
+    "username1": "pooja",
+    "userpassword1": "1234",
+    "cart": {
+      "name1": "Lenovo",
+      "price1": 5999,
+      "count1": 5,
+      "specification1": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB \n 14.48 cm (5.7 inch) HD+ Display \n 13MP + 5MP | 13MP + 5MP Dual Front Camera \n 3000 mAh Battery MediaTek P22 Processor",
+      "description1": "The Lenovo K9 smartphone is here to make your life simpler and beautiful.\n How? Well, the next time your group wants a good picture, you can show off your K9 smartphone and its 13 MP + 5 MP Rear and Selfie cameras.\n Oh, and not to forget, \n its Dual-glass body adds to its overall appeal.",
+      "rating1": 4,
+      "image1": "https://www.freepnglogos.com/uploads/mobile-png/lenovo-smartphone-mobile-png-2.png",
+      "reviews1": [],
+      "revcnt1": 0,
+      "active1": false
+    }
+  },
+  {
+    "id1": 2,
+    "username1": "ruhi",
+    "userpassword1": "ruhi",
+
+    "cart": {
+      "name1": "Lenovo",
+      "price1": 5999,
+      "count1": 5,
+      "specification1": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB \n 14.48 cm (5.7 inch) HD+ Display \n 13MP + 5MP | 13MP + 5MP Dual Front Camera \n 3000 mAh Battery MediaTek P22 Processor",
+      "description1": "The Lenovo K9 smartphone is here to make your life simpler and beautiful.\n How? Well, the next time your group wants a good picture, you can show off your K9 smartphone and its 13 MP + 5 MP Rear and Selfie cameras.\n Oh, and not to forget, \n its Dual-glass body adds to its overall appeal.",
+      "rating1": 4,
+      "image1": "https://www.freepnglogos.com/uploads/mobile-png/lenovo-smartphone-mobile-png-2.png",
+      "reviews1": [],
+      "revcnt1": 0,
+      "active1": false
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name1": "Ferrari Spider",
+    "price1": 472355,
+    "count1": 5,
+    "specification1": "The Petrol engine is 4497 cc. It is available with the transmission. Depending upon the variant and fuel type the 458 Spider has a mileage of 5.5 kmpl. The 458 Spider is a 2 seater Convertible and has a length of 4527mm, width of 1937mm and a wheelbase of 2650mm.",
+    "description1": "A 4.5 liter V8, mid-engined model, the car boasts a 558 horsepower production and 398 pound-feet of torque. ... With the ability to reach speeds of 199 MPH, this Italian racecar received an engine upgrade in 2015, taking the overall horsepower production up to 570",
+    "rating1": 5,
+    "image1": "https://i.pinimg.com/originals/5b/16/f3/5b16f3fb9b15cf8ccfc73b0f7a4f8bc0.png",
+    "reviews1": [],
+    "revcnt1": 0,
+    "active1": false
+  },
+  {
+    "name1": "Huracán Evo RWD (2020–present)",
+    "price1": 179976,
+    "count1": 5,
+    "specification1": "Engine. The Huracán maintains the 5.2-litre naturally aspirated Audi/Lamborghini V10 engine from the Gallardo, tuned to generate a maximum power output of 449 kW (602 hp; 610 PS). ",
+    "description1": "The Samsung Galaxy A10s smartphone is here to make your life simpler by facilitating efficient performance along with impressive battery life. Its 15.79 cm (6.2) HD+ immersive screen and the Infinity-V display will make sure that every visual you watch on the screen is a delight. That’s not all, you can capture clear pictures with this smartphone’s 13 MP + 2 MP dual rear camera and the 8 MP front camera.",
+    "rating1": 2,
+    "image1": "http://www.pngmart.com/files/10/Lamborghini-Huracan-Transparent-Background.png",
+    "reviews1": [],
+    "revcnt1": 0,
+    "active1": false
+  },
+  {
+    "name1": "Mercedes-Benz SLS AMG",
+    "price1": 121250,
+    "count1": 5,
+    "specification1": "The Petrol engine is 6208 cc. It is available with the transmission. Depending upon the variant and fuel type the SLS AMG has a mileage of 10.7 kmpl. The SLS AMG is a 4 seater Coupe and has a length of 4638mm, width of 1939mm and a wheelbase of 2680mm.",
+    "description1": "The Mercedes-Benz SLS AMG (C197 / R197) is a front mid-engine, 2-seater, limited production sports car developed by the Mercedes-AMG division of German automotive manufacturer Mercedes-Benz, with the assistance of David Coulthard.",
+    "rating1": 3,
+    "image1": "https://i.pinimg.com/originals/43/4a/ae/434aae362a595e2f98d42d99386f25a2.png",
+    "reviews1": [],
+    "revcnt1": 0,
+    "active1": false
+  },
+  {
+    "name1": "Ducati Monster 1200 ",
+    "price1": 22995,
+    "count1": 5,
+    "specification1": "Engine CC 1198.4 cc. No Of Cylinder 2.Max Power 150 bhp @ 9000 rpm.Max Torque 123 Nm @ 8000 rpm. Valves Per Cylinder 4. Fuel Delivery Electronic Fuel Injection. Cooling System Liquid Cooled.Starting Mechanism Self Start.",
+    "description1": "Ducati is a group of companies, best known for manufacturing motorcycles and headquartered in Borgo Panigale, Bologna, Italy. The group is owned by German automotive manufacturer Audi through its Italian subsidiary Lamborghini, which is in turn owned by the Volkswagen Group.",
+    "rating1": 4,
+    "image1": "https://pngriver.com/wp-content/uploads/2018/04/Download-Ducati-Transparent-Background.png",
+    "reviews1": [],
+    "revcnt1": 0,
+    "active1": false
+  }
+]
