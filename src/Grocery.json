@@ -1,0 +1,50 @@
+[
+  {
+    "name1": "Apples",
+    "price1": 100,
+    "count1": 1000,
+    "specification1": "These fresh apples have excellent taste and crunch ideal for creating jams, juices, jellies, pies and many others. These fresh apples are ideal for medicinal use as these are able to control constipation and diarrhea as well as many other diseases.",
+    "description1": "Apple, (Malus domestica), fruit of the domesticated tree Malus domestica (family Rosaceae), one of the most widely cultivated tree fruits. ",
+    "rating1": 5,
+    "image1": "http://www.pngmart.com/files/5/Red-Apple-PNG-Clipart.png",
+    "reviews1": [],
+    "revcnt1": 0,
+    "active1": false
+  },
+  {
+    "name1": "Bananas",
+    "price1": 40,
+    "count1": 5,
+    "specification1": "A banana is an edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, bananas used for cooking may be called plantains, distinguishing them from dessert bananas",
+    "description1": "its tasty",
+    "rating1": 2,
+    "image1": "https://i.ya-webdesign.com/images/peeled-bananas-png-4.png",
+    "reviews1": [],
+    "revcnt1": 0,
+    "active1": false
+  },
+  {
+    "name1": "strawberry",
+    "price1": 30,
+    "count1": 5,
+    "specification1": "These fresh apples have excellent taste and crunch ideal for creating jams, juices, jellies, pies and many others. These fresh apples are ideal for medicinal use as these are able to control constipation and diarrhea as well as many other diseases",
+    "description1": "A strawberry is both a low-growing, flowering plant and also the name of the fruit that it produces. Strawberries are soft, sweet, bright red berries. They're also delicious. Strawberries have tiny edible seeds, which grow all over their surface.",
+    "rating1": 3,
+    "image1": "http://www.pngmart.com/files/3/Strawberry-Transparent-Background.png",
+    "reviews1": [],
+    "revcnt1": 0,
+    "active1": false
+  },
+  {
+    "name1": "mango",
+    "price1": 500,
+    "count1": 5,
+    "specification1": "very expensive",
+    "description1": "Mango, Mangifera indica, is an evergreen tree in the family Anacardiaceae grown for its edible fruit. The mango tree is erect and branching with a thick trunk and broad, rounded canopy.",
+    "rating1": 4,
+    "image1": "http://pngimg.com/uploads/mango/mango_PNG9164.png",
+    "reviews1": [],
+    "revcnt1": 0,
+    "active1": false
+  }
+]

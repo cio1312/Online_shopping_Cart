@@ -1,0 +1,50 @@
+[
+  {
+    "name1": "Apple iPhone 11",
+    "price1": 64900,
+    "count1": 5,
+    "specification1": "64 GB ROM | 15.49 cm (6.1 inch) Liquid Retina HD Display 12MP + 12MP | 12MP Front CameraA13 Bionic Chip Processor",
+    "description1": "Featuring a 15.49-cm (6.1) all-screen Liquid Retina LCD and a glass and aluminum design, the iPhone 11 is as beautiful as it gets. Also, the IP68 rating ensures that is water-resistant up to 2 meters for 30 minutes.",
+    "rating1": 5,
+    "image1": "http://pngimg.com/uploads/iphone_11/iphone_11_PNG42.png",
+    "reviews1": [],
+    "revcnt1": 0,
+    "active1": false
+  },
+  {
+    "name1": "Samsung Galazy A10s",
+    "price1": 9499,
+    "count1": 5,
+    "specification1": "3 GB RAM | 32 GB ROM | Expandable Upto 512 GB 15.75 cm (6.2 inch) HD+ Display 13MP + 2MP | 8MP Front Camera  4000 mAh Lithium-ion Battery MediaTek MT6762 Processor",
+    "description1": "The Samsung Galaxy A10s smartphone is here to make your life simpler by facilitating efficient performance along with impressive battery life. Its 15.79 cm (6.2) HD+ immersive screen and the Infinity-V display will make sure that every visual you watch on the screen is a delight. That’s not all, you can capture clear pictures with this smartphone’s 13 MP + 2 MP dual rear camera and the 8 MP front camera.",
+    "rating1": 2,
+    "image1": "https://www.samsung.com/global/galaxy/galaxy-s8/images/gallery/galaxy-s8_gallery_right_side_black_s4.png",
+    "reviews1": ["good\n", "okish\n", "not good camera but very fast\n"],
+    "revcnt1": 0,
+    "active1": false
+  },
+  {
+    "name1": "Realme 5i (Forest Green, 64 GB)",
+    "price1": 8999,
+    "count1": 5,
+    "specification1": "4 GB RAM | 64 GB ROM |16.56 cm (6.52 inch) HD+ Display12MP + 8MP + 2MP + 2MP | 8MP Front Camera5000 mAh Battery Qualcomm Snapdragon 665 2 GHz Processor Sunrise Design Reverse Charging",
+    "description1": "The Realme 5i is here to meet your smartphone demands seamlessly as it houses a massive 5000 mAh battery and is powered by a 2.0 GHz Qualcomm Snapdragon 665 AIE Processor. Make photography a serious business with its AI Quad camera that features a 12 MP Primary Lens, 8 MP Ultra Wide-Angle Lens, 2 MP Super Macro Lens and 2 MP Portrait Lens.",
+    "rating1": 3,
+    "image1": "https://i.dlpng.com/static/png/6982909_thumb.png",
+    "reviews1": [],
+    "revcnt1": 0,
+    "active1": false
+  },
+  {
+    "name1": "Lenovo",
+    "price1": 5999,
+    "count1": 5,
+    "specification1": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB \n 14.48 cm (5.7 inch) HD+ Display \n 13MP + 5MP | 13MP + 5MP Dual Front Camera \n 3000 mAh Battery MediaTek P22 Processor",
+    "description1": "The Lenovo K9 smartphone is here to make your life simpler and beautiful.\n How? Well, the next time your group wants a good picture, you can show off your K9 smartphone and its 13 MP + 5 MP Rear and Selfie cameras.\n Oh, and not to forget, \n its Dual-glass body adds to its overall appeal.",
+    "rating1": 4,
+    "image1": "https://www.freepnglogos.com/uploads/mobile-png/lenovo-smartphone-mobile-png-2.png",
+    "reviews1": [],
+    "revcnt1": 0,
+    "active1": false
+  }
+]
