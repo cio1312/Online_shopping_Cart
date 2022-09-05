@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Online_shopping_Cart/static/css/main.06ff91d8.chunk.css",
+    "main.js": "/Online_shopping_Cart/static/js/main.495887e6.chunk.js",
+    "main.js.map": "/Online_shopping_Cart/static/js/main.495887e6.chunk.js.map",
+    "runtime~main.js": "/Online_shopping_Cart/static/js/runtime~main.3bdc1ebe.js",
+    "runtime~main.js.map": "/Online_shopping_Cart/static/js/runtime~main.3bdc1ebe.js.map",
+    "static/js/2.13e63281.chunk.js": "/Online_shopping_Cart/static/js/2.13e63281.chunk.js",
+    "static/js/2.13e63281.chunk.js.map": "/Online_shopping_Cart/static/js/2.13e63281.chunk.js.map",
+    "index.html": "/Online_shopping_Cart/index.html",
+    "precache-manifest.8a8bb7a6b1196ef58fbed9768c750bd1.js": "/Online_shopping_Cart/precache-manifest.8a8bb7a6b1196ef58fbed9768c750bd1.js",
+    "service-worker.js": "/Online_shopping_Cart/service-worker.js",
+    "static/css/main.06ff91d8.chunk.css.map": "/Online_shopping_Cart/static/css/main.06ff91d8.chunk.css.map"
+  }
+}
